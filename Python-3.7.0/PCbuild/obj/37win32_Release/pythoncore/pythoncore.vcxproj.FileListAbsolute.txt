@@ -1,0 +1,1 @@
+D:\Desktop\Python-3.7.0\PCbuild\obj\37win32_Release\pythoncore\pythonnt_rc.h
